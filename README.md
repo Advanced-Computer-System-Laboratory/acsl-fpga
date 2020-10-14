@@ -6,7 +6,7 @@ Ikuti arahan asisten dalam mengerjakan modul praktikum.
 <br/>
 
 Link Download Software Xilinx 14.5 : 
-https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive-ise.html
+https://drive.google.com/file/d/1x-XOUj4jPudbssmUyPAfucWfwvDCkx_r/view?usp=sharing
 
 <img align="left" src="images/download.png" >
 

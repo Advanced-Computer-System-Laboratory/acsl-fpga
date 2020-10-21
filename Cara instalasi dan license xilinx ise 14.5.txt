@@ -1,0 +1,27 @@
+Cara menginstall Xilinx ISE 14.5 : 
+	1. Download Software Xilinx ISE 14.5 Dan License Crack nya 
+	2. Ekstrak kedua file tersebut 
+	3. Buka xsetup.exe lalu instal 
+	4. Pilih Edition list nya yang ISE WebPACK
+	5. Setelah Xilinx 14.5 nya terinsatal, sebelum masukan license nya kalian harus ke folder xilinx yang 
+	   sudah kalian instal.
+	6. Masuk ke folder xilinx => 14.5 => ISE_DS => ISE => LIB => NT64
+	7. Cari file libPortability.dll
+	8. Rename file libPortability.dll menjadi libPortability.dll.orig
+	9. Setelah rename cari file libPortabilityNOSH.dll lalu copy file tersebut 
+	10. Copy paste file libPortabilityNOSH.dll lalu rename menjadi libPortability.dll
+	11. lalu kembali ke folder ISE_DS => common => lib => nt64 
+	12. Cari file libPortability.dll
+	13. Rename file libPortability.dll menjadi libPortability.dll.orig
+	14. Cari File libPortabilityNOSH.dll
+	14. Rename file libPortabilityNOSH.dll lalu rename menjadi libPortability.dll
+
+Cara License Xilinx 14.5 :
+	1. Buka Software ISE project Navigator
+	2. Nanti akan muncul xilinx license configuration manager 
+	3. Pilih get my purchased license(s)
+	4. Pindah ke tab manage license
+	5. Klik Load License
+	6. Cari file license Xilinx.lic lalu klik dan open 
+	7. Klik ok 
+	8. Maka xilinx ise project navigator berhasil di license lalu close 
